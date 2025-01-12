@@ -1,0 +1,1 @@
+The Indian Weather Data Analysis Application is a powerful tool for analyzing and visualizing weather data across India. This application provides real-time updates, historical trends, and predictive insights to help users understand weather patterns, make data-driven decisions, and prepare for weather-related challenges
